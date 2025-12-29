@@ -1,4 +1,0 @@
-"First experiment" 
-"Second experiment" 
-"Third experiment" 
-"Fourth line" 

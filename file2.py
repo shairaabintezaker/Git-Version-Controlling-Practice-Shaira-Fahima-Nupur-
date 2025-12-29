@@ -1,1 +1,0 @@
-print("software devlopment & project management")
